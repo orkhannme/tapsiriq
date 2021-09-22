@@ -1,0 +1,4 @@
+Software nədir və kompüterdə necə emal olunur?
+Software – komputerin ardicil yerine yetireceyi telimatlar ve emrler toplusudur
+Komputere biz lazim olan telimatlari ve emrleri BINARY CODE vasiteri ile gonderirik CPU dan
+kecen emrleri komputer ardicil yerine yetirir.

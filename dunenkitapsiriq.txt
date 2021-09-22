@@ -1,0 +1,3 @@
+Proqramlaşdırma nədir?
+Proqramlasdirma her hansi bir meqsede catmaq ucun lazim olan emrleri komputer diline
+cevirme prosesidir.
